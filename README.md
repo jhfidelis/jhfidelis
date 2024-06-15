@@ -10,7 +10,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhfidelis&layout=compact&theme=merko"/>
 </div>
 
-##Tecnologias que uso:
+## Tecnologias que uso:
 
 <div>
   <img align="center" alt="Java" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
