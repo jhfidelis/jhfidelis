@@ -1,8 +1,7 @@
 ## 👋 Olá
 
 
-- 🔭 Estagiário de suporte e infraestrutura na FATEC Santana de Parnaíba
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas na FATEC Santana de Parnaíba
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas na FATEC Santana de Parnaíba
 - 🤔 Sempre buscando aprender mais na área de tecnologia
 
 <div>
